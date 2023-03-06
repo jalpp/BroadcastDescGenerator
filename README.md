@@ -5,7 +5,8 @@ this tool is a python script which takes input from terminal and prints the shor
 
 # Screenshot
 ![image](https://www.linkpicture.com/q/Screen-Shot-2023-03-06-at-5.53.27-PM.png)
-# Future development
 
+# Future development
+- date conversion
 
 
