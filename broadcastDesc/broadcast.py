@@ -98,9 +98,9 @@ def calculatetz(user_timezone, target_timezone, rounds):
     for i in range(int(rounds)):
 
         target_date = input(
-            f"Enter the Round {i} date in the Tournament time zone (e.g. '2023-03-19'): ")
+            f"Enter the Round {i + 1} date in the Tournament time zone (e.g. '2023-03-19'): ")
         target_time = input(
-            f"Enter the Round {i} time in the Tournament time zone (e.g. '12:00 PM'): ")
+            f"Enter the Round {i + 1} time in the Tournament time zone (e.g. '12:00 PM'): ")
 
         target_datetime_str = f"{target_date} {target_time}"
         target_datetime = datetime.datetime.strptime(
