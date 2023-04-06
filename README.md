@@ -9,7 +9,7 @@ This script also includes time zone conversion for each round in a given tournam
 
 # Other Python Files
 
-There are two files which give the estimate for the tier of a broadcast. They can be found here as `BroadcastTier.py` and `BroadcastTier2.py`. They both use different rules to compute the tier, so the user can choose which set of rules they want to compute the tiers.
+There are two files which give the estimate for the tier of a broadcast. They can be found here as [BroadcastTier.py](https://github.com/jalpp/BroadcastDescGenerator/blob/main/broadcastDesc/BroadcastTier.py) and [BroadcastTier2.py](https://github.com/jalpp/BroadcastDescGenerator/blob/main/broadcastDesc/BroadcastTier2.py). They both use different rules to compute the tier, so the user can choose which set of rules they want to compute the tiers.
 
 # Future development
 - clearner input
